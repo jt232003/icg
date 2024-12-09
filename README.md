@@ -1,4 +1,4 @@
-### Image Caption Generator
+## Image Caption Generator
 
 ## Dataset
 The project utilizes the **Flickr8k dataset**, consisting of over 8,000 images paired with five descriptive captions each. This dataset is ideal for generating textual descriptions for images. All dataset files are organized in the `input` directory for seamless access.
