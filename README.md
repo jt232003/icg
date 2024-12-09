@@ -11,3 +11,7 @@ These results highlight the model's ability to align image features with natural
 
 ## Acknowledgements
 This project benefited greatly from online tutorials and research papers on image captioning. Gratitude is extended to the creators of the **Flickr8k dataset** and the **TensorFlow/Keras community** for providing tools and pre-trained models that supported the development process.
+
+If you have any questions or suggestions, feel free to reach out:
+
+- **LinkedIn**: [Jalaj Trivedi](https://www.linkedin.com/in/jalaj-trivedi-961b62221)
